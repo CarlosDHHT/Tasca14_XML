@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <preguntas>
-	<pregunta id="pregunta1">
-		<tipo>select</tipo>
+	<pregunta type="select">
 		<titulo>Una onda plana se propaga en el vacío de modo tal que la amplitud del
 		campo eléctrico es de 240V/m y oscila en la dirección z. Además, sabemos
 		que la onda EM se propaga en la dirección +x y que w=2.0pTrad/seg.
@@ -12,13 +11,11 @@
 		<option>103</option>
 		<respuesta>1</respuesta>
 	</pregunta>
-	<pregunta id="pregunta2">
-		<tipo>text</tipo>
+	<pregunta type="text">
 		<titulo>Notas de tus exámenes en Lenguaje de Marcas: 7, 5, 9. Calcula la media (redondeo entero):</titulo>
 		<respuesta>7</respuesta>
 	</pregunta>
-	<pregunta id="pregunta3">
-		<tipo>checkbox</tipo>
+	<pregunta type="checkbox">
 		<titulo>¿Cúal es el resultado de √9?:</titulo>
 		<option>Infinito</option>
 		<option>3</option>
@@ -27,8 +24,7 @@
 		<respuesta>1</respuesta>
 		<respuesta>2</respuesta>
 	</pregunta>
-	<pregunta id="pregunta4">
-		<tipo>select</tipo>
+	<pregunta type="select">
 		<titulo>¿Cuál es el valor del ángulo? (En grados)</titulo>
 		<option>180</option>
 		<option>360</option>
@@ -36,8 +32,7 @@
 		<option>0</option>
 		<respuesta>2</respuesta>
 	</pregunta>
-	<pregunta id="pregunta5">
-		<tipo>select</tipo>
+	<pregunta type="select">
 		<titulo>¿Cuáles son las propiedades de la suma?</titulo>
 		<option>Aburrida</option>
 		<option>Asociotiva</option>
@@ -50,8 +45,7 @@
 		<respuesta>3</respuesta>
 		<respuesta>4</respuesta>
 	</pregunta>
-	<pregunta id="pregunta6">
-		<tipo>radio</tipo>
+	<pregunta type="radio">
 		<titulo>¿Cuál es el número 79 en binario: </titulo>
 		<option>6C3</option>
 		<option>1001111</option>
@@ -59,8 +53,7 @@
 		<option>0000111</option>
 		<respuesta>1</respuesta>
 	</pregunta>
-	<pregunta id="pregunta7">
-		<tipo>radio</tipo>
+	<pregunta type="radio">
 		<titulo>Si un coche tarda 90 minutos en recorrer 150 km, ¿a qué velocidad media ha recorrido el trayecto?</titulo>
 		<option>100 m/s</option>
 		<option>100 km/min</option>
@@ -68,8 +61,7 @@
 		<option>100 km/h</option>
 		<respuesta>3</respuesta>
 	</pregunta>
-	<pregunta id="pregunta8">
-		<tipo>checkbox</tipo>
+	<pregunta type="checkbox">
 		<titulo>Si tenemos 20 manzanas, 30 plátano y 200 uvas, ¿que tenemos?</titulo>
 		<option>Un buen postre.</option>
 		<option>Fruta por un tubo.</option>
@@ -80,8 +72,7 @@
 		<respuesta>1</respuesta>
 		<respuesta>1</respuesta>
 	</pregunta>
-	<pregunta id="pregunta9">
-		<tipo>select</tipo>
+	<pregunta type="select">
 		<titulo>Si x²=25, ¿Cuál es el valor de x?</titulo>
 		<option>8</option>
 		<option>7</option>
@@ -92,8 +83,7 @@
 		<respuesta>2</respuesta>
 		<respuesta>4</respuesta>
 	</pregunta>
-	<pregunta id="pregunta10">
-		<tipo>radio</tipo>
+	<pregunta type="radio">
 		<titulo>Si utilizamos las coordenadas x,y,z, la representación será: </titulo>
 		<option>Bidimensional</option>
 		<option>Tridimensional</option>
