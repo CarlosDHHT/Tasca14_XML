@@ -51,7 +51,7 @@
 		<respuesta>4</respuesta>
 	</pregunta>
 	<pregunta id="pregunta6">
-		<tipo>select</tipo>
+		<tipo>radio</tipo>
 		<titulo>¿Cuál es el número 79 en binario: </titulo>
 		<option>6C3</option>
 		<option>1001111</option>
@@ -60,7 +60,7 @@
 		<respuesta>1</respuesta>
 	</pregunta>
 	<pregunta id="pregunta7">
-		<tipo>select</tipo>
+		<tipo>radio</tipo>
 		<titulo>Si un coche tarda 90 minutos en recorrer 150 km, ¿a qué velocidad media ha recorrido el trayecto?</titulo>
 		<option>100 m/s</option>
 		<option>100 km/min</option>
@@ -93,7 +93,7 @@
 		<respuesta>4</respuesta>
 	</pregunta>
 	<pregunta id="pregunta10">
-		<tipo>select</tipo>
+		<tipo>radio</tipo>
 		<titulo>Si utilizamos las coordenadas x,y,z, la representación será: </titulo>
 		<option>Bidimensional</option>
 		<option>Tridimensional</option>
