@@ -67,10 +67,10 @@
 		<option>Fruta por un tubo.</option>
 		<option>250 piezas de fruta.</option>
 		<option>La nevera llena hasta los topes de fruta.</option>
+		<respuesta>0</respuesta>
 		<respuesta>1</respuesta>
-		<respuesta>1</respuesta>
-		<respuesta>1</respuesta>
-		<respuesta>1</respuesta>
+		<respuesta>2</respuesta>
+		<respuesta>3</respuesta>
 	</pregunta>
 	<pregunta type="select">
 		<titulo>Si x²=25, ¿Cuál es el valor de x?</titulo>
